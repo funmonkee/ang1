@@ -1,6 +1,7 @@
 
 https://www.telerik.com/blogs/deploy-angular-application-with-azure-static-web-apps
 
+https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=angular
 
 create ng new ang1
 
